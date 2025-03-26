@@ -1,0 +1,18 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets/images/cheef-1.png
+  image_dark: assets/images/cheef-dark.png
+
+
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/images/cheef-1.png
+    image_dark: assets/images/cheef-dark.png
+    fullscreen: true
+
+  
+  
+  web: false
